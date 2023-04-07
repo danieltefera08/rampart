@@ -1,0 +1,11 @@
+---
+# tasks file for rampart
+
+# ------------------------------------------------------------------------------
+
+- name: "PRE | run apt cache update"
+  ansible.builtin.apt:
+    force_apt_get: true
+    update_cache: true
+  changed_when: false
+# ------------------------------------------------------------------------------
