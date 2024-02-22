@@ -1,7 +1,5 @@
 # CIS - Ubuntu 22.04
 
----
-
 [![Ansible Lint](https://github.com/danieltefera08/rampart/actions/workflows/ansible-lint.yml/badge.svg)](https://github.com/danieltefera08/rampart/actions/workflows/ansible-lint.yml)
 [![Ansible Molecule Test](https://github.com/danieltefera08/rampart/actions/workflows/ci.yml/badge.svg)](https://github.com/danieltefera08/rampart/actions/workflows/ci.yml)
 
